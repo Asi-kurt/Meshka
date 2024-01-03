@@ -1,0 +1,10 @@
+#including <iostream>
+
+Using namespace std;
+
+Int main() {
+cout << "Asi kurt" << endl;
+cout << "Ayat Zyadah" << endl;
+
+Return 0;
+}
